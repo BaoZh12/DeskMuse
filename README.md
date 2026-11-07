@@ -18,7 +18,7 @@
 
 <hr>
 
-## ✨ What she can do
+## What she can do
 
 - **Talk like a person.** Chat through any OpenAI-compatible AI (Gemini, OpenAI, Claude,
   OpenRouter, DeepSeek, or a local one like Ollama). Her mood shows on her face.
@@ -31,13 +31,13 @@
   loud if you connect a voice service.
 - **Stay light.** She lives in the tray and hides when a game goes full screen.
 
-## 🖼️ Screenshots
+## Screenshots
 
 | <img src="https://github.com/BaoZh12/DeskMuse/raw/main/docs/screenshots/alarm.png" width="260" alt="Alarms and timers"> | <img src="https://github.com/BaoZh12/DeskMuse/raw/main/docs/screenshots/memory.png" width="260" alt="Memory"> | <img src="https://github.com/BaoZh12/DeskMuse/raw/main/docs/screenshots/actions.png" width="260" alt="Actions"> |
 | :---: | :---: | :---: |
 | **Alarms and timers** | **Memory** | **Actions** |
 
-## 🚀 Get started
+## Get started
 
 1. Download `DeskMuse-portable.zip` from the [Releases](https://github.com/BaoZh12/DeskMuse/releases) page and extract it anywhere. Nothing to install.
 2. Run `DeskMuse.exe`.
@@ -48,9 +48,9 @@
 > **Portable by design:** Your characters, outfits and animations are stored in the app
 > folder, so moving or backing it up is just copying the folder.
 
-## 💡 Good to know
+## Good to know
 
-> ⚠️ **Windows SmartScreen ("Unknown publisher")**
+> **Windows SmartScreen ("Unknown publisher")**
 >
 > Windows may say "Unknown publisher", because the app isn't code-signed yet.
 > Click <kbd>More info</kbd>, then <kbd>Run anyway</kbd>.
