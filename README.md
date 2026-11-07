@@ -17,10 +17,21 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/BaoZh12/DeskMuse/releases/latest"><b>Download DeskMuse for Windows</b></a><br>
-  <sub>Open the page, scroll to <b>Assets</b>, click <code>DeskMuse-portable.zip</code>, then extract it and run <code>DeskMuse.exe</code>.</sub>
+  <a href="https://github.com/BaoZh12/DeskMuse/releases/latest/download/DeskMuse-portable.zip"><b>Download DeskMuse for Windows</b></a><br>
+  <sub>Free, about 260 MB. Extract the zip and run <code>DeskMuse.exe</code>.</sub>
 </p>
 <hr>
+
+## Get started
+
+1. [Download `DeskMuse-portable.zip`](https://github.com/BaoZh12/DeskMuse/releases/latest/download/DeskMuse-portable.zip) and extract it anywhere. Nothing to install.
+2. Run `DeskMuse.exe`.
+3. Right-click her, open **Settings**, and add an AI connection (none is set up by default).
+4. **Want more?** Import your own character from the same menu. The built-in character is
+   locked for Actions and Wardrobe; your own model unlocks everything.
+
+> **Portable by design:** Your characters, outfits and animations are stored in the app
+> folder, so moving or backing it up is just copying the folder.
 
 ## What she can do
 
@@ -40,17 +51,6 @@
 | <img src="https://github.com/BaoZh12/DeskMuse/raw/main/docs/screenshots/alarm.png" width="260" alt="Alarms and timers"> | <img src="https://github.com/BaoZh12/DeskMuse/raw/main/docs/screenshots/memory.png" width="260" alt="Memory"> | <img src="https://github.com/BaoZh12/DeskMuse/raw/main/docs/screenshots/actions.png" width="260" alt="Actions"> |
 | :---: | :---: | :---: |
 | **Alarms and timers** | **Memory** | **Actions** |
-
-## Get started
-
-1. Download `DeskMuse-portable.zip` from the [Releases](https://github.com/BaoZh12/DeskMuse/releases) page and extract it anywhere. Nothing to install.
-2. Run `DeskMuse.exe`.
-3. Right-click her, open **Settings**, and add an AI connection (none is set up by default).
-4. **Want more?** Import your own character from the same menu. The built-in character is
-   locked for Actions and Wardrobe; your own model unlocks everything.
-
-> **Portable by design:** Your characters, outfits and animations are stored in the app
-> folder, so moving or backing it up is just copying the folder.
 
 ## Good to know
 
