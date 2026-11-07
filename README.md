@@ -51,6 +51,7 @@
 ## Good to know
 
 - **Importing is still experimental.** Importing your own characters, outfits and animations (VRChat/Booth packages, VRM, FBX and more) is still being tested. Some models may fail to load, look wrong, or need manual fixes. If one doesn't work, use **Save error report** in the Character or Wardrobe panel and send it along.
+
 > **Windows SmartScreen ("Unknown publisher")**
 >
 > Windows may say "Unknown publisher", because the app isn't code-signed yet.
