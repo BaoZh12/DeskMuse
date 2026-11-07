@@ -16,10 +16,6 @@
   <em>She chats with you right on your desktop</em>
 </div>
 
-<p align="center">
-  <a href="https://github.com/BaoZh12/DeskMuse/releases/latest/download/DeskMuse-portable.zip"><b>Download DeskMuse for Windows</b></a><br>
-  <sub>Free, about 260 MB. Extract the zip and run <code>DeskMuse.exe</code>.</sub>
-</p>
 <hr>
 
 ## Get started
