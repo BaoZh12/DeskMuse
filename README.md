@@ -16,6 +16,10 @@
   <em>She chats with you right on your desktop</em>
 </div>
 
+<p align="center">
+  <a href="https://github.com/BaoZh12/DeskMuse/releases/latest"><b>Download DeskMuse for Windows</b></a><br>
+  <sub>Open the page, scroll to <b>Assets</b>, click <code>DeskMuse-portable.zip</code>, then extract it and run <code>DeskMuse.exe</code>.</sub>
+</p>
 <hr>
 
 ## What she can do
